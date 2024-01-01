@@ -5,11 +5,11 @@ This file organizer is a simple Python application that helps users organize the
 
 ### Features
 - **GUI for easy interaction**
-  <img src="https://i.imgur.com/P7kDBib.png" alt="Image of program screen" width="1000"/> <br><br>
+  <img src="https://i.imgur.com/P7kDBib.png" alt="Image of program screen" width="1200"/> <br><br>
 - **Organizes files into folders based on file type (e.g., Text Files, PDF Files, Images)**
-  <img src="https://i.imgur.com/iJdRbAx.png" alt="Image of program screen" width="1000"/> <br><br>
+  <img src="https://i.imgur.com/iJdRbAx.png" alt="Image of program screen" width="1200"/> <br><br>
 - **Undo functionality to revert any organization action**
-  <img src="https://i.imgur.com/W7Yt9rA.png" alt="Image of program screen" width="1000"/> <br><br>
+  <img src="https://i.imgur.com/W7Yt9rA.png" alt="Image of program screen" width="1200"/> <br><br>
 - **Option to open the organized directory in Windows Explorer**
 
 
